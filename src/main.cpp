@@ -11,7 +11,7 @@ int main() {
   cAldFont ald_test("res/font/chogokubosogothic_5.ttf");
   ald_test.size(60);
 
-  std::string str = "ALD_FONT_TEST";
+  std::string str = "2015/04/03 8:14";
   float2 pos = float2(-240, 0);
   Color color = Color::green;
   float time = 0.15f;
