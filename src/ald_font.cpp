@@ -1,7 +1,6 @@
 
 #include "ald_font.h"
 #include <ctype.h>
-#include <iostream>
 
 
 cAldFont::cAldFont(const string& path) :
